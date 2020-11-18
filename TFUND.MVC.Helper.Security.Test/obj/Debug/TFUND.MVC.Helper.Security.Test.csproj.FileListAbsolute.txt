@@ -1,0 +1,16 @@
+D:\wwwroot_Local\@Library\TFUND.MVC.Helper.Security\TFUND.MVC.Helper.Security.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\wwwroot_Local\@Library\TFUND.MVC.Helper.Security\TFUND.MVC.Helper.Security.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\wwwroot_Local\@Library\TFUND.MVC.Helper.Security\TFUND.MVC.Helper.Security.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\wwwroot_Local\@Library\TFUND.MVC.Helper.Security\TFUND.MVC.Helper.Security.Test\bin\Debug\TFUND.MVC.Helper.Security.Test.dll
+D:\wwwroot_Local\@Library\TFUND.MVC.Helper.Security\TFUND.MVC.Helper.Security.Test\bin\Debug\TFUND.MVC.Helper.Security.Test.pdb
+D:\wwwroot_Local\@Library\TFUND.MVC.Helper.Security\TFUND.MVC.Helper.Security.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\wwwroot_Local\@Library\TFUND.MVC.Helper.Security\TFUND.MVC.Helper.Security.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\wwwroot_Local\@Library\TFUND.MVC.Helper.Security\TFUND.MVC.Helper.Security.Test\bin\Debug\TFUND.MVC.Helper.Security.dll
+D:\wwwroot_Local\@Library\TFUND.MVC.Helper.Security\TFUND.MVC.Helper.Security.Test\bin\Debug\TFUND.MVC.Helper.Security.pdb
+D:\wwwroot_Local\@Library\TFUND.MVC.Helper.Security\TFUND.MVC.Helper.Security.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\wwwroot_Local\@Library\TFUND.MVC.Helper.Security\TFUND.MVC.Helper.Security.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\wwwroot_Local\@Library\TFUND.MVC.Helper.Security\TFUND.MVC.Helper.Security.Test\obj\Debug\TFUND.MVC.Helper.Security.Test.csprojAssemblyReference.cache
+D:\wwwroot_Local\@Library\TFUND.MVC.Helper.Security\TFUND.MVC.Helper.Security.Test\obj\Debug\TFUND.MVC.Helper.Security.Test.csproj.CoreCompileInputs.cache
+D:\wwwroot_Local\@Library\TFUND.MVC.Helper.Security\TFUND.MVC.Helper.Security.Test\obj\Debug\TFUND.MVC.Helper.Security.Test.csproj.CopyComplete
+D:\wwwroot_Local\@Library\TFUND.MVC.Helper.Security\TFUND.MVC.Helper.Security.Test\obj\Debug\TFUND.MVC.Helper.Security.Test.dll
+D:\wwwroot_Local\@Library\TFUND.MVC.Helper.Security\TFUND.MVC.Helper.Security.Test\obj\Debug\TFUND.MVC.Helper.Security.Test.pdb

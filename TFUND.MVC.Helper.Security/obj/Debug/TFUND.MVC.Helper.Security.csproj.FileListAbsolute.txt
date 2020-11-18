@@ -1,0 +1,9 @@
+O:\SD\@Project_MVC\@Library\TFUND.MVC.Helper.Security\bin\Debug\TFUND.MVC.Helper.Security.dll
+O:\SD\@Project_MVC\@Library\TFUND.MVC.Helper.Security\bin\Debug\TFUND.MVC.Helper.Security.pdb
+D:\wwwroot_Local\@Library\TFUND.MVC.Helper.Security\obj\Debug\TFUND.MVC.Helper.Security.csproj.CoreCompileInputs.cache
+D:\wwwroot_Local\@Library\TFUND.MVC.Helper.Security\obj\Debug\TFUND.MVC.Helper.Security.dll
+D:\wwwroot_Local\@Library\TFUND.MVC.Helper.Security\obj\Debug\TFUND.MVC.Helper.Security.pdb
+D:\wwwroot_Local\@Library\TFUND.MVC.Helper.Security\TFUND.MVC.Helper.Security\obj\Debug\TFUND.MVC.Helper.Security.csproj.CoreCompileInputs.cache
+D:\wwwroot_Local\@Library\TFUND.MVC.Helper.Security\TFUND.MVC.Helper.Security\obj\Debug\TFUND.MVC.Helper.Security.dll
+D:\wwwroot_Local\@Library\TFUND.MVC.Helper.Security\TFUND.MVC.Helper.Security\obj\Debug\TFUND.MVC.Helper.Security.pdb
+D:\wwwroot_Local\@Library\TFUND.MVC.Helper.Security\TFUND.MVC.Helper.Security\obj\Debug\TFUND.MVC.Helper.Security.csprojAssemblyReference.cache
