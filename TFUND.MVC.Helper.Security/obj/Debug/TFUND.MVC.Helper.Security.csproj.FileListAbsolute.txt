@@ -6,4 +6,14 @@ D:\wwwroot_Local\@Library\TFUND.MVC.Helper.Security\obj\Debug\TFUND.MVC.Helper.S
 D:\wwwroot_Local\@Library\TFUND.MVC.Helper.Security\TFUND.MVC.Helper.Security\obj\Debug\TFUND.MVC.Helper.Security.csproj.CoreCompileInputs.cache
 D:\wwwroot_Local\@Library\TFUND.MVC.Helper.Security\TFUND.MVC.Helper.Security\obj\Debug\TFUND.MVC.Helper.Security.dll
 D:\wwwroot_Local\@Library\TFUND.MVC.Helper.Security\TFUND.MVC.Helper.Security\obj\Debug\TFUND.MVC.Helper.Security.pdb
-D:\wwwroot_Local\@Library\TFUND.MVC.Helper.Security\TFUND.MVC.Helper.Security\obj\Debug\TFUND.MVC.Helper.Security.csprojAssemblyReference.cache
+D:\wwwroot_SVN\@Library\TFUND.MVC.Helper.Security\TFUND.MVC.Helper.Security\obj\Debug\TFUND.MVC.Helper.Security.csproj.CoreCompileInputs.cache
+D:\wwwroot_SVN\@Library\TFUND.MVC.Helper.Security\TFUND.MVC.Helper.Security\obj\Debug\TFUND.MVC.Helper.Security.dll
+D:\wwwroot_SVN\@Library\TFUND.MVC.Helper.Security\TFUND.MVC.Helper.Security\obj\Debug\TFUND.MVC.Helper.Security.pdb
+D:\wwwroot_SVN_TEST\@Library\TFUND.MVC.Helper.Security\TFUND.MVC.Helper.Security\obj\Debug\TFUND.MVC.Helper.Security.csprojAssemblyReference.cache
+D:\wwwroot_SVN_TEST\@Library\TFUND.MVC.Helper.Security\TFUND.MVC.Helper.Security\obj\Debug\TFUND.MVC.Helper.Security.csproj.CoreCompileInputs.cache
+D:\wwwroot_SVN_TEST\@Library\TFUND.MVC.Helper.Security\TFUND.MVC.Helper.Security\obj\Debug\TFUND.MVC.Helper.Security.dll
+D:\wwwroot_SVN_TEST\@Library\TFUND.MVC.Helper.Security\TFUND.MVC.Helper.Security\obj\Debug\TFUND.MVC.Helper.Security.pdb
+D:\wwwroot_Local\@git\TFUND.MVC.Helper.Security\TFUND.MVC.Helper.Security\obj\Debug\TFUND.MVC.Helper.Security.csprojAssemblyReference.cache
+D:\wwwroot_Local\@git\TFUND.MVC.Helper.Security\TFUND.MVC.Helper.Security\obj\Debug\TFUND.MVC.Helper.Security.csproj.CoreCompileInputs.cache
+D:\wwwroot_Local\@git\TFUND.MVC.Helper.Security\TFUND.MVC.Helper.Security\obj\Debug\TFUND.MVC.Helper.Security.dll
+D:\wwwroot_Local\@git\TFUND.MVC.Helper.Security\TFUND.MVC.Helper.Security\obj\Debug\TFUND.MVC.Helper.Security.pdb

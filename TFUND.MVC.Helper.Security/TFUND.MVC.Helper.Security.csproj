@@ -18,7 +18,7 @@
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
-    <OutputPath>..\..\..\Bin\</OutputPath>
+    <OutputPath>O:\SD\%40Project_MVC\%40Library\TFUND.MVC.Helper.Security\bin\Debug\</OutputPath>
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
@@ -47,6 +47,8 @@
     <Compile Include="Security\EncryptionHelper.cs" />
     <Compile Include="Security\HasherHelper.cs" />
     <Compile Include="Security\KeyGeneratorHelper.cs" />
+    <Compile Include="Security\PaymentHashHelper.cs" />
+    <Compile Include="Security\RSACryptoHelper.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
