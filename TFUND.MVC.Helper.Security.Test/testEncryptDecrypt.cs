@@ -89,7 +89,7 @@ namespace TFUND.MVC.Helper.Security.Test
             var rsa = new RSACryptoHelper.RSACryptoGenerator(this.PublicKey,this.PrivateKey);
             RSACryptoHelper.RSACryptoUtil.SetContainer(rsa);
 
-            var strValue = "579/50   ซอยพระรามที่ 2 ซอย 25  แขวงบางมด เขตจอมทอง กรุงเทพมหานคร";
+            var strValue = "245 ม.ลาซาลเพลซ ซ.ลาซาล24 ถ.สุขุมวิท 105 แขวงบางนา เขตบางนา กรุงเทพ 10260";
             var encryptValue = RSACryptoHelper.RSACryptoUtil.EncryptData(strValue);
 
             var result = RSACryptoHelper.RSACryptoUtil.DecryptData(encryptValue);
