@@ -32,8 +32,14 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="BouncyCastle.Crypto, Version=1.8.6.0, Culture=neutral, PublicKeyToken=0e99375e54769942">
+      <HintPath>..\packages\BouncyCastle.1.8.6.1\lib\BouncyCastle.Crypto.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.ValueTuple.4.5.0\lib\netstandard1.0\System.ValueTuple.dll</HintPath>
+    </Reference>
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -44,11 +50,19 @@
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Security\Base64UrlHelper.cs" />
+    <Compile Include="Security\Cryptography\IRSACryptoHelper.cs" />
+    <Compile Include="Security\Cryptography\RSACryptoHelper.cs" />
+    <Compile Include="Security\Cryptography\RSAKeyExtensions.cs" />
+    <Compile Include="Security\Cryptography\RSAKeySize.cs" />
     <Compile Include="Security\EncryptionHelper.cs" />
     <Compile Include="Security\HasherHelper.cs" />
     <Compile Include="Security\KeyGeneratorHelper.cs" />
     <Compile Include="Security\PaymentHashHelper.cs" />
-    <Compile Include="Security\RSACryptoHelper.cs" />
+    <Compile Include="Security\Cryptography\IRSAKeygen.cs" />
+    <Compile Include="Security\Cryptography\RSAKeygen.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

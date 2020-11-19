@@ -62,3 +62,6 @@ D:\wwwroot_Local\@git\TFUND.MVC.Helper.Security\TFUND.MVC.Helper.Security.Test\o
 D:\wwwroot_Local\@git\TFUND.MVC.Helper.Security\TFUND.MVC.Helper.Security.Test\obj\Debug\TFUND.MVC.Helper.Security.Test.csproj.CopyComplete
 D:\wwwroot_Local\@git\TFUND.MVC.Helper.Security\TFUND.MVC.Helper.Security.Test\obj\Debug\TFUND.MVC.Helper.Security.Test.dll
 D:\wwwroot_Local\@git\TFUND.MVC.Helper.Security\TFUND.MVC.Helper.Security.Test\obj\Debug\TFUND.MVC.Helper.Security.Test.pdb
+D:\wwwroot_Local\@git\TFUND.MVC.Helper.Security\TFUND.MVC.Helper.Security.Test\bin\Debug\System.ValueTuple.dll
+D:\wwwroot_Local\@git\TFUND.MVC.Helper.Security\TFUND.MVC.Helper.Security.Test\bin\Debug\BouncyCastle.Crypto.dll
+D:\wwwroot_Local\@git\TFUND.MVC.Helper.Security\TFUND.MVC.Helper.Security.Test\bin\Debug\System.ValueTuple.xml
