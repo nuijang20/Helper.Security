@@ -63,13 +63,13 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="Keys\" />
+  </ItemGroup>
+  <ItemGroup>
     <ProjectReference Include="..\TFUND.MVC.Helper.Security\TFUND.MVC.Helper.Security.csproj">
       <Project>{02a04382-b38a-4895-bffe-18202f1389ef}</Project>
       <Name>TFUND.MVC.Helper.Security</Name>
     </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Keys\" />
   </ItemGroup>
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

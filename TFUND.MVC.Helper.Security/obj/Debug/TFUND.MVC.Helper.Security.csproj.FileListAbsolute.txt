@@ -16,5 +16,9 @@ D:\wwwroot_SVN_TEST\@Library\TFUND.MVC.Helper.Security\TFUND.MVC.Helper.Security
 D:\wwwroot_Local\@git\TFUND.MVC.Helper.Security\TFUND.MVC.Helper.Security\obj\Debug\TFUND.MVC.Helper.Security.csproj.CoreCompileInputs.cache
 D:\wwwroot_Local\@git\TFUND.MVC.Helper.Security\TFUND.MVC.Helper.Security\obj\Debug\TFUND.MVC.Helper.Security.dll
 D:\wwwroot_Local\@git\TFUND.MVC.Helper.Security\TFUND.MVC.Helper.Security\obj\Debug\TFUND.MVC.Helper.Security.pdb
-D:\wwwroot_Local\@git\TFUND.MVC.Helper.Security\TFUND.MVC.Helper.Security\obj\Debug\TFUND.MVC.Helper.Security.csprojAssemblyReference.cache
 D:\wwwroot_Local\@git\TFUND.MVC.Helper.Security\TFUND.MVC.Helper.Security\obj\Debug\TFUND.MVC.Helper.Security.csproj.CopyComplete
+D:\wwwroot_Local\@git\TFUND.MVC.Helper.Security\TFUND.MVC.Helper.Security\bin\Debug\TFUND.MVC.Helper.Security.dll
+D:\wwwroot_Local\@git\TFUND.MVC.Helper.Security\TFUND.MVC.Helper.Security\bin\Debug\TFUND.MVC.Helper.Security.pdb
+D:\wwwroot_Local\@git\TFUND.MVC.Helper.Security\TFUND.MVC.Helper.Security\bin\Debug\BouncyCastle.Crypto.dll
+D:\wwwroot_Local\@git\TFUND.MVC.Helper.Security\TFUND.MVC.Helper.Security\bin\Debug\System.ValueTuple.dll
+D:\wwwroot_Local\@git\TFUND.MVC.Helper.Security\TFUND.MVC.Helper.Security\bin\Debug\System.ValueTuple.xml
